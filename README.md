@@ -4,6 +4,9 @@
 - Right now Completed an Intern and open to work as Machine Learning Engineer.
 - And to know further Here is my [Resume](https://github.com/kushal1999seemakurthi/HTML/blob/main/HTML_Resume_3/Resume.pdf)
 - 📫 How to reach me ==> [linkedin](www.linkedin.com/in/kushal-kumar-57211317b)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 <!---
 kushal1999seemakurthi/kushal1999seemakurthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
