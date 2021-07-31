@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kushal Kumar Seemakurthi
+# 👋 Hi, I’m Kushal Kumar Seemakurthi
 - I'm a Graduate Student from IIT Dharwad
 - 🌱 I’m currently working in Machine Learning, Deep Learning areas whereas lately got interest in App development too..
 - Right now Completed an Intern and open to work as Machine Learning Engineer.
