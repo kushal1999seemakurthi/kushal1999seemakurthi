@@ -2,7 +2,7 @@
 - I'm a Deep_Learning enthusiast, Gradute @ IIT Dharwad | Data Scientist @ Ushur | Ex-Applied Scientist Intern @ Junglee Games.
 - I’m currently working in Machine Learning, Deep Learning areas whereas lately got interest in App development too..
 - Right now Completed an Intern and open to work as Machine Learning Engineer.
-- And to know further Here is my [Resume](https://drive.google.com/file/d/1IUoj3sXEOyhjQGO_mcdo132ziWodpVgf/view?usp=sharing)
+- And to know further Here is my [Resume](https://drive.google.com/file/d/1POu7koTyNXXtpsytFbIE93TdrCE5cpn8/view?usp=sharing)
 - How to reach me @ ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [Kushal Kumar](www.linkedin.com/in/kushal-kumar-57211317b)
 
 <!---
